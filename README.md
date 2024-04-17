@@ -36,4 +36,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Output
-https://ai-saas-9ihpyn42z-hidur-ms-projects.vercel.app
+https://ai-saas-361tffvkp-hidur-ms-projects.vercel.app/
